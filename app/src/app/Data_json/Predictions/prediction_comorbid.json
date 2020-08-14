@@ -1,0 +1,82 @@
+[
+ {
+   "Date": "11-08-20",
+   "daily_hoogly": 139.4010746,
+   "daily_howrah": 240.5192377,
+   "daily_kolkata": 625.1540721,
+   "daily_N24": 544.5655696,
+   "daily_pmed": 51.17161461
+ },
+ {
+   "Date": "12-08-20",
+   "daily_hoogly": 140.7933785,
+   "daily_howrah": 206.3556527,
+   "daily_kolkata": 630.5846541,
+   "daily_N24": 550.0413642,
+   "daily_pmed": 51.71352579
+ },
+ {
+   "Date": "13-08-20",
+   "daily_hoogly": 142.1856825,
+   "daily_howrah": 202.4049116,
+   "daily_kolkata": 636.7302978,
+   "daily_N24": 555.5171588,
+   "daily_pmed": 52.25543697
+ },
+ {
+   "Date": "14-08-20",
+   "daily_hoogly": 143.5779864,
+   "daily_howrah": 244.3582477,
+   "daily_kolkata": 642.5792683,
+   "daily_N24": 560.9929533,
+   "daily_pmed": 52.79734814
+ },
+ {
+   "Date": "15-08-20",
+   "daily_hoogly": 144.9702903,
+   "daily_howrah": 218.0901921,
+   "daily_kolkata": 648.5513261,
+   "daily_N24": 566.4687479,
+   "daily_pmed": 53.33925932
+ },
+ {
+   "Date": "16-08-20",
+   "daily_hoogly": 146.3625943,
+   "daily_howrah": 208.5284124,
+   "daily_kolkata": 654.4723161,
+   "daily_N24": 571.9445425,
+   "daily_pmed": 53.8811705
+ },
+ {
+   "Date": "17-08-20",
+   "daily_hoogly": 147.7548982,
+   "daily_howrah": 242.9852393,
+   "daily_kolkata": 660.4144936,
+   "daily_N24": 577.4203371,
+   "daily_pmed": 54.42308167
+ },
+ {
+   "Date": "18-08-20",
+   "daily_hoogly": 149.1472021,
+   "daily_howrah": 230.012495,
+   "daily_kolkata": 666.3478806,
+   "daily_N24": 582.8961316,
+   "daily_pmed": 54.96499285
+ },
+ {
+   "Date": "19-08-20",
+   "daily_hoogly": 150.5395061,
+   "daily_howrah": 215.2251264,
+   "daily_kolkata": 672.2849147,
+   "daily_N24": 588.3719262,
+   "daily_pmed": 55.50690403
+ },
+ {
+   "Date": "20-08-20",
+   "daily_hoogly": 151.93181,
+   "daily_howrah": 243.0075802,
+   "daily_kolkata": 678.2204357,
+   "daily_N24": 593.8477208,
+   "daily_pmed": 56.0488152
+ }
+]

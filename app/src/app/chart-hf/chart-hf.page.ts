@@ -1,4 +1,4 @@
-import { Component, OnInit,ViewChild} from '@angular/core';
+import { Component, OnInit,ViewChild } from '@angular/core';
 import { Chart } from 'chart.js';
 import data from '../Data_json/Health Advisor/kolkata.json';
 import dataHowrah from '../Data_json/Health Advisor/Howrah.json';
@@ -8,16 +8,14 @@ import dataPmed from '../Data_json/Health Advisor/PMed.json';
 import pa from '../Data_json/Predictions/prediction_active.json';
 import pc from '../Data_json/Predictions/prediction_comorbid.json';
 import ps from '../Data_json/Predictions/prediction_sev.json';
-import prob from '../Data_json/Predictions/prob.json';
 
 @Component({
-  selector: 'app-chart',
-  templateUrl: './chart.page.html',
-  styleUrls: ['./chart.page.scss'],
+  selector: 'app-chart-hf',
+  templateUrl: './chart-hf.page.html',
+  styleUrls: ['./chart-hf.page.scss'],
 })
-export class ChartPage implements OnInit {
+export class ChartHFPage implements OnInit {
 
-  // tslint:disable-next-line: max-line-length
   private kolkata = data;
   private howrah = dataHowrah;
   private Np = dataNp;
@@ -33,6 +31,8 @@ export class ChartPage implements OnInit {
   @ViewChild('barChart3') barChart3;
   @ViewChild('barChart4') barChart4;
   @ViewChild('barChart5') barChart5;
+  @ViewChild('barChart6') barChart6;
+  @ViewChild('barChart7') barChart7;
 
   bars: any;
   colorArray: any;
@@ -75,8 +75,21 @@ export class ChartPage implements OnInit {
   p_cNp: number[] = [];
   p_cHoog: number[] = [];
   p_cPmed: number[] = [];
+  
+  tk: number[] = [];
+  hyperk: number[] = [];
+  thwh: number[] = [];
+  hyperhwh: number[] = [];
+  thoo: number[] = [];
+  hyperhoo: number[] = [];
+  tn: number[] = [];
+  hypern: number[] = [];
+  tp: number[] = [];
+  hyperp: number[] = [];
 
-  constructor() {}
+
+
+  constructor() { }
 
   ionViewDidEnter() {
     this.createBarChart();
@@ -85,27 +98,37 @@ export class ChartPage implements OnInit {
       this.active.push(x.Active);
       this.severe.push(x.severe);
       this.c.push(x.comorbid);
+      this.tk.push(x.Total)
+      this.hyperk.push(x.Hypertension)
     });
     this.howrah.forEach(x => {
       this.dateHowrah.push(x.Date);
       this.activeHowrah.push(x.Active);
       this.sHowrah.push(x.severe);
       this.cHowrah.push(x.comorbid);
+      this.thwh.push(x.Total)
+      this.hyperhwh.push(x.Hypertension)
     });
     this.Np.forEach(x => {
       this.activeNp.push(x.Active);
       this.sNp.push(x.severe);
       this.cNp.push(x.comorbid);
+      this.tn.push(x.Total)
+      this.hypern.push(x.Hypertension)
     });
     this.Hoog.forEach(x => {
       this.activeHoog.push(x.Active);
       this.sHoog.push(x.severe);
       this.cHoog.push(x.comorbid);
+      this.thoo.push(x.Total)
+      this.hyperhoo.push(x.Hypertension)
     });
     this.Pmed.forEach(x => {
       this.activePmed.push(x.Active);
       this.sPmed.push(x.severe);
       this.cPmed.push(x.comorbid);
+      this.tp.push(x.Total)
+      this.hyperp.push(x.Hypertension)
     });
     this.preA.forEach(x => {
       this.p_date.push(x.Date);
@@ -516,9 +539,135 @@ export class ChartPage implements OnInit {
         }
       }
     });
+    this.lineChart = new Chart(this.barChart6.nativeElement, {
+      type: 'line',
+      data: {
+        labels: this.date,
+        datasets: [{
+          label: 'Kolkata',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: 'rgb(38, 194, 129)', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.tk,
+        },
+        {
+          label: 'Howrah',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: 'crimson', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.thwh,
+
+        },
+        {
+          label: 'North 24 Paraganas',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#33c91f', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.tn,
+        },
+        {
+          label: 'Hooghly',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#28c2d6', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.thoo,
+        },
+        {
+          label: 'Pasch. Midnapur',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#144add', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.tp,
+        },]
+      },
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: false
+            }
+          }],
+          xAxes: [{
+            display: false
+        }]
+        },
+      }
+    });
+    this.lineChart = new Chart(this.barChart7.nativeElement, {
+      type: 'line',
+      data: {
+        labels: this.date,
+        datasets: [{
+          label: 'Kolkata',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: 'rgb(38, 194, 129)', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.hyperk,
+        },
+        {
+          label: 'Howrah',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: 'crimson', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.hyperhwh,
+
+        },
+        {
+          label: 'North 24 Paraganas',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#33c91f', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.hypern,
+        },
+        {
+          label: 'Hooghly',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#28c2d6', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.hyperhoo,
+        },
+        {
+          label: 'Pasch. Midnapur',
+            fill: true,
+            backgroundColor: 'rgba(0,0,0,0)', // array should have same number of elements as number of dataset
+            borderColor: '#144add', // array should have same number of elements as number of dataset
+            borderWidth: 2,
+            pointRadius: 1,
+            data: this.hyperp,
+        },]
+      },
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: false
+            }
+          }],
+          xAxes: [{
+            display: false
+        }]
+        },
+      }
+    });
   }
-
-
 
   ngOnInit() {
   }

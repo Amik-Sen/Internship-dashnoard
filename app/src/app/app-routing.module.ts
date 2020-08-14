@@ -39,6 +39,14 @@ const routes: Routes = [
     path: 'chart',
     loadChildren: () => import('./chart/chart.module').then( m => m.ChartPageModule)
   },
+  {
+    path: 'chart-ha',
+    loadChildren: () => import('./chart-ha/chart-ha.module').then( m => m.ChartHAPageModule)
+  },
+  {
+    path: 'chart-hf',
+    loadChildren: () => import('./chart-hf/chart-hf.module').then( m => m.ChartHFPageModule)
+  },
 ];
 
 @NgModule({

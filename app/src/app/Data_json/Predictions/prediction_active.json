@@ -1,0 +1,82 @@
+[
+ {
+   "Date": "11-08-20",
+   "active_hoogly": 1315.408382,
+   "active_howrah": 2060.272425,
+   "active_kolkata": 6812.019855,
+   "active_N24": 5674.031089,
+   "active_pmed": 348.7428571
+ },
+ {
+   "Date": "12-08-20",
+   "active_hoogly": 1334.387612,
+   "active_howrah": 2071.819635,
+   "active_kolkata": 6747.351514,
+   "active_N24": 5698.062177,
+   "active_pmed": 353.4857143
+ },
+ {
+   "Date": "13-08-20",
+   "active_hoogly": 1352.787172,
+   "active_howrah": 2089.198061,
+   "active_kolkata": 6682.683173,
+   "active_N24": 5722.093266,
+   "active_pmed": 358.2285714
+ },
+ {
+   "Date": "14-08-20",
+   "active_hoogly": 1370.517269,
+   "active_howrah": 2108.43714,
+   "active_kolkata": 6618.014832,
+   "active_N24": 5746.124354,
+   "active_pmed": 362.9714286
+ },
+ {
+   "Date": "15-08-20",
+   "active_hoogly": 1387.990896,
+   "active_howrah": 2128.269927,
+   "active_kolkata": 6553.346491,
+   "active_N24": 5770.155443,
+   "active_pmed": 367.7142857
+ },
+ {
+   "Date": "16-08-20",
+   "active_hoogly": 1405.262411,
+   "active_howrah": 2148.292158,
+   "active_kolkata": 6488.67815,
+   "active_N24": 5794.186532,
+   "active_pmed": 372.4571429
+ },
+ {
+   "Date": "17-08-20",
+   "active_hoogly": 1422.437585,
+   "active_howrah": 2168.374837,
+   "active_kolkata": 6424.009809,
+   "active_N24": 5818.21762,
+   "active_pmed": 377.2
+ },
+ {
+   "Date": "18-08-20",
+   "active_hoogly": 1439.548297,
+   "active_howrah": 2188.476804,
+   "active_kolkata": 6359.341468,
+   "active_N24": 5842.248709,
+   "active_pmed": 381.9428571
+ },
+ {
+   "Date": "19-08-20",
+   "active_hoogly": 1456.624907,
+   "active_howrah": 2208.584925,
+   "active_kolkata": 6294.673127,
+   "active_N24": 5866.279797,
+   "active_pmed": 386.6857143
+ },
+ {
+   "Date": "20-08-20",
+   "active_hoogly": 1473.680342,
+   "active_howrah": 2228.695011,
+   "active_kolkata": 6230.004786,
+   "active_N24": 5890.310886,
+   "active_pmed": 391.4285714
+ }
+]

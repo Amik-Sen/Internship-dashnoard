@@ -17,30 +17,6 @@
 
   <ion-grid>
     <ion-row>
-      <ion-col size="5" offset="1">
-        <ion-card style = "background-color: #7d1bec;">
-        <ion-card-header>
-            <ion-card-subtitle class="ion-text-center">Severity</ion-card-subtitle>
-            <ion-card-title class="ion-text-center">Percentage probability</ion-card-title>
-        </ion-card-header>
-        <ion-card-content class="ion-text-center">
-          12%
-        </ion-card-content>
-        </ion-card>
-      </ion-col>
-      <ion-col size="5">
-        <ion-card style = "background-color: #d434e2;">
-        <ion-card-header>
-            <ion-card-subtitle class="ion-text-center">Advice</ion-card-subtitle>
-            <ion-card-title class="ion-text-center">Consult Doctor in case of emergency</ion-card-title>
-        </ion-card-header>
-        <ion-card-content class="ion-text-center">
-          Use Sanitizers and Masks
-        </ion-card-content>
-        </ion-card>
-      </ion-col>
-    </ion-row>
-    <ion-row>
       <ion-col size="5" offset="1" >
         <ion-card class="welcome-card" style="background:rgba(0, 0, 0, 0.452);">
           <ion-card-header>
@@ -73,6 +49,87 @@
           </ion-card-header>
           <ion-card-content>
             <canvas #barChart5 style="background: white; height: 100px;"></canvas>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="2" offset="1">
+        <ion-card style = "background-color: #358597;">
+        <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Kolkata</ion-card-subtitle>
+            <ion-card-title class="ion-text-center"> In-Use Ventilators</ion-card-title>
+        </ion-card-header>
+        <ion-card-content class="ion-text-center">
+          43
+        </ion-card-content>
+        </ion-card>
+      </ion-col>
+      <ion-col size="2">
+        <ion-card style = "background-color: crimson;">
+        <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Howrah</ion-card-subtitle>
+            <ion-card-title class="ion-text-center"> In-Use Ventilators</ion-card-title>
+        </ion-card-header>
+        <ion-card-content class="ion-text-center">
+          12
+        </ion-card-content>
+        </ion-card>
+      </ion-col>
+      <ion-col size="2">
+        <ion-card style = "background-color: #33c91f;">
+        <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">North 24 Paraganas</ion-card-subtitle>
+            <ion-card-title class="ion-text-center"> In-Use Ventilators</ion-card-title>
+        </ion-card-header>
+        <ion-card-content class="ion-text-center">
+          35
+        </ion-card-content>
+        </ion-card>
+      </ion-col>
+      <ion-col size="2">
+        <ion-card style = "background-color: #28c2d6;">
+        <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Hooghly</ion-card-subtitle>
+            <ion-card-title class="ion-text-center"> In-Use Ventilators</ion-card-title>
+        </ion-card-header>
+        <ion-card-content class="ion-text-center">
+          8
+        </ion-card-content>
+        </ion-card>
+      </ion-col>
+      <ion-col size="2">
+        <ion-card style = "background-color: #144add;">
+        <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Paschim Midnapore</ion-card-subtitle>
+            <ion-card-title class="ion-text-center"> In-Use Ventilators</ion-card-title>
+        </ion-card-header>
+        <ion-card-content class="ion-text-center">
+          2
+        </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col size="5" offset="1" >
+        <ion-card class="welcome-card" style="background:rgba(0, 0, 0, 0.452);">
+          <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Total Comorbid Patients Needing Ventilators Trend</ion-card-subtitle>
+            <ion-card-title  class="ion-text-center"> Click on region toggle visibility</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            <canvas #barChart6 style="background: white; height: 100px;"></canvas>
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+      <ion-col size="5">
+        <ion-card class="welcome-card" style="background:rgba(0, 0, 0, 0.452);">
+          <ion-card-header>
+            <ion-card-subtitle class="ion-text-center">Hypertension Comorbid Patients Needing Ventilators Trend</ion-card-subtitle>
+            <ion-card-title  class="ion-text-center"> Click on region toggle visibility</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            <canvas #barChart7 style="background: white; height: 100px;"></canvas>
           </ion-card-content>
         </ion-card>
       </ion-col>
@@ -294,3 +351,5 @@
     </ion-row>
   </ion-grid>
 </ion-content>
+
+
