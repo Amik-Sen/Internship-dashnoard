@@ -13,6 +13,7 @@ export class LoginPage implements OnInit {
 
   email: string = "";
   password:string = "";
+  user:string;
 
   constructor(public afAuth: AngularFireAuth, public router: Router, public alertController: AlertController) { }
 

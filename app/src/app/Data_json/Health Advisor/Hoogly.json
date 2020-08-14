@@ -1,0 +1,712 @@
+[
+ {
+   "Date": "01/06/20",
+   "Active": 134,
+   "severe": 72,
+   "comorbid": 45,
+   "ICU requirements": 11,
+   "Ventilators required overall": 3,
+   "Total": 2,
+   "Hypertension": 0
+ },
+ {
+   "Date": "02/06/20",
+   "Active": 171,
+   "severe": 84,
+   "comorbid": 53,
+   "ICU requirements": 13,
+   "Ventilators required overall": 3,
+   "Total": 2,
+   "Hypertension": 0
+ },
+ {
+   "Date": "03/06/20",
+   "Active": 209,
+   "severe": 100,
+   "comorbid": 64,
+   "ICU requirements": 15,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 0
+ },
+ {
+   "Date": "04/06/20",
+   "Active": 253,
+   "severe": 119,
+   "comorbid": 76,
+   "ICU requirements": 18,
+   "Ventilators required overall": 5,
+   "Total": 3,
+   "Hypertension": 0
+ },
+ {
+   "Date": "05/06/20",
+   "Active": 291,
+   "severe": 124,
+   "comorbid": 80,
+   "ICU requirements": 19,
+   "Ventilators required overall": 5,
+   "Total": 3,
+   "Hypertension": 0
+ },
+ {
+   "Date": "06/06/20",
+   "Active": 370,
+   "severe": 155,
+   "comorbid": 101,
+   "ICU requirements": 24,
+   "Ventilators required overall": 6,
+   "Total": 4,
+   "Hypertension": 0
+ },
+ {
+   "Date": "07/06/20",
+   "Active": 404,
+   "severe": 165,
+   "comorbid": 108,
+   "ICU requirements": 25,
+   "Ventilators required overall": 7,
+   "Total": 5,
+   "Hypertension": 0
+ },
+ {
+   "Date": "08/06/20",
+   "Active": 406,
+   "severe": 166,
+   "comorbid": 109,
+   "ICU requirements": 25,
+   "Ventilators required overall": 7,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "09/06/20",
+   "Active": 416,
+   "severe": 170,
+   "comorbid": 113,
+   "ICU requirements": 26,
+   "Ventilators required overall": 7,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "10/06/20",
+   "Active": 436,
+   "severe": 174,
+   "comorbid": 115,
+   "ICU requirements": 27,
+   "Ventilators required overall": 7,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "11/06/20",
+   "Active": 453,
+   "severe": 178,
+   "comorbid": 120,
+   "ICU requirements": 27,
+   "Ventilators required overall": 7,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "12/06/20",
+   "Active": 458,
+   "severe": 181,
+   "comorbid": 123,
+   "ICU requirements": 28,
+   "Ventilators required overall": 8,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "13/06/20",
+   "Active": 339,
+   "severe": 130,
+   "comorbid": 89,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "14/06/20",
+   "Active": 343,
+   "severe": 133,
+   "comorbid": 92,
+   "ICU requirements": 20,
+   "Ventilators required overall": 6,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "15/06/20",
+   "Active": 247,
+   "severe": 100,
+   "comorbid": 70,
+   "ICU requirements": 15,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "16/06/20",
+   "Active": 252,
+   "severe": 104,
+   "comorbid": 73,
+   "ICU requirements": 16,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "17/06/20",
+   "Active": 272,
+   "severe": 116,
+   "comorbid": 82,
+   "ICU requirements": 18,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "18/06/20",
+   "Active": 280,
+   "severe": 112,
+   "comorbid": 80,
+   "ICU requirements": 17,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "19/06/20",
+   "Active": 261,
+   "severe": 105,
+   "comorbid": 75,
+   "ICU requirements": 16,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "20/06/20",
+   "Active": 255,
+   "severe": 107,
+   "comorbid": 77,
+   "ICU requirements": 16,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "21/06/20",
+   "Active": 267,
+   "severe": 111,
+   "comorbid": 81,
+   "ICU requirements": 17,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "22/06/20",
+   "Active": 234,
+   "severe": 99,
+   "comorbid": 73,
+   "ICU requirements": 15,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "23/06/20",
+   "Active": 164,
+   "severe": 72,
+   "comorbid": 53,
+   "ICU requirements": 11,
+   "Ventilators required overall": 3,
+   "Total": 2,
+   "Hypertension": 0
+ },
+ {
+   "Date": "24/06/20",
+   "Active": 164,
+   "severe": 72,
+   "comorbid": 53,
+   "ICU requirements": 11,
+   "Ventilators required overall": 3,
+   "Total": 2,
+   "Hypertension": 0
+ },
+ {
+   "Date": "25/06/20",
+   "Active": 183,
+   "severe": 83,
+   "comorbid": 62,
+   "ICU requirements": 13,
+   "Ventilators required overall": 3,
+   "Total": 2,
+   "Hypertension": 1
+ },
+ {
+   "Date": "26/06/20",
+   "Active": 196,
+   "severe": 92,
+   "comorbid": 68,
+   "ICU requirements": 14,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "27/06/20",
+   "Active": 220,
+   "severe": 95,
+   "comorbid": 71,
+   "ICU requirements": 15,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "28/06/20",
+   "Active": 234,
+   "severe": 99,
+   "comorbid": 74,
+   "ICU requirements": 15,
+   "Ventilators required overall": 4,
+   "Total": 3,
+   "Hypertension": 1
+ },
+ {
+   "Date": "29/06/20",
+   "Active": 263,
+   "severe": 109,
+   "comorbid": 82,
+   "ICU requirements": 17,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "30/06/20",
+   "Active": 289,
+   "severe": 118,
+   "comorbid": 90,
+   "ICU requirements": 18,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "01/07/20",
+   "Active": 289,
+   "severe": 117,
+   "comorbid": 89,
+   "ICU requirements": 18,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "02/07/20",
+   "Active": 293,
+   "severe": 115,
+   "comorbid": 88,
+   "ICU requirements": 18,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "03/07/20",
+   "Active": 337,
+   "severe": 134,
+   "comorbid": 103,
+   "ICU requirements": 21,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "04/07/20",
+   "Active": 321,
+   "severe": 128,
+   "comorbid": 99,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "05/07/20",
+   "Active": 349,
+   "severe": 135,
+   "comorbid": 105,
+   "ICU requirements": 21,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "06/07/20",
+   "Active": 349,
+   "severe": 133,
+   "comorbid": 105,
+   "ICU requirements": 20,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "07/07/20",
+   "Active": 337,
+   "severe": 131,
+   "comorbid": 104,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "08/07/20",
+   "Active": 344,
+   "severe": 130,
+   "comorbid": 104,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "09/07/20",
+   "Active": 360,
+   "severe": 128,
+   "comorbid": 102,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "10/07/20",
+   "Active": 415,
+   "severe": 137,
+   "comorbid": 110,
+   "ICU requirements": 21,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "11/07/20",
+   "Active": 448,
+   "severe": 136,
+   "comorbid": 110,
+   "ICU requirements": 21,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "12/07/20",
+   "Active": 442,
+   "severe": 124,
+   "comorbid": 100,
+   "ICU requirements": 19,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "13/07/20",
+   "Active": 474,
+   "severe": 130,
+   "comorbid": 105,
+   "ICU requirements": 20,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "14/07/20",
+   "Active": 448,
+   "severe": 127,
+   "comorbid": 103,
+   "ICU requirements": 19,
+   "Ventilators required overall": 5,
+   "Total": 4,
+   "Hypertension": 1
+ },
+ {
+   "Date": "15/07/20",
+   "Active": 494,
+   "severe": 136,
+   "comorbid": 111,
+   "ICU requirements": 21,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "16/07/20",
+   "Active": 552,
+   "severe": 146,
+   "comorbid": 119,
+   "ICU requirements": 22,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "17/07/20",
+   "Active": 607,
+   "severe": 158,
+   "comorbid": 130,
+   "ICU requirements": 24,
+   "Ventilators required overall": 7,
+   "Total": 6,
+   "Hypertension": 2
+ },
+ {
+   "Date": "18/07/20",
+   "Active": 612,
+   "severe": 151,
+   "comorbid": 124,
+   "ICU requirements": 23,
+   "Ventilators required overall": 6,
+   "Total": 5,
+   "Hypertension": 1
+ },
+ {
+   "Date": "19/07/20",
+   "Active": 655,
+   "severe": 163,
+   "comorbid": 135,
+   "ICU requirements": 25,
+   "Ventilators required overall": 7,
+   "Total": 6,
+   "Hypertension": 2
+ },
+ {
+   "Date": "20/07/20",
+   "Active": 789,
+   "severe": 191,
+   "comorbid": 159,
+   "ICU requirements": 29,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "21/07/20",
+   "Active": 806,
+   "severe": 192,
+   "comorbid": 161,
+   "ICU requirements": 29,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "22/07/20",
+   "Active": 898,
+   "severe": 216,
+   "comorbid": 181,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "23/07/20",
+   "Active": 893,
+   "severe": 213,
+   "comorbid": 180,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "24/07/20",
+   "Active": 901,
+   "severe": 216,
+   "comorbid": 183,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "25/07/20",
+   "Active": 963,
+   "severe": 227,
+   "comorbid": 194,
+   "ICU requirements": 35,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "26/07/20",
+   "Active": 952,
+   "severe": 231,
+   "comorbid": 198,
+   "ICU requirements": 35,
+   "Ventilators required overall": 10,
+   "Total": 9,
+   "Hypertension": 2
+ },
+ {
+   "Date": "27/07/20",
+   "Active": 871,
+   "severe": 212,
+   "comorbid": 182,
+   "ICU requirements": 32,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "28/07/20",
+   "Active": 905,
+   "severe": 220,
+   "comorbid": 189,
+   "ICU requirements": 34,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "29/07/20",
+   "Active": 878,
+   "severe": 203,
+   "comorbid": 174,
+   "ICU requirements": 31,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "30/07/20",
+   "Active": 945,
+   "severe": 215,
+   "comorbid": 186,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "31/07/20",
+   "Active": 957,
+   "severe": 210,
+   "comorbid": 182,
+   "ICU requirements": 32,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "01/08/20",
+   "Active": 951,
+   "severe": 203,
+   "comorbid": 176,
+   "ICU requirements": 31,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "02/08/20",
+   "Active": 881,
+   "severe": 183,
+   "comorbid": 159,
+   "ICU requirements": 28,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "03/08/20",
+   "Active": 886,
+   "severe": 185,
+   "comorbid": 161,
+   "ICU requirements": 28,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "04/08/20",
+   "Active": 888,
+   "severe": 178,
+   "comorbid": 156,
+   "ICU requirements": 27,
+   "Ventilators required overall": 7,
+   "Total": 6,
+   "Hypertension": 2
+ },
+ {
+   "Date": "05/08/20",
+   "Active": 965,
+   "severe": 190,
+   "comorbid": 166,
+   "ICU requirements": 29,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "06/08/20",
+   "Active": 1009,
+   "severe": 195,
+   "comorbid": 171,
+   "ICU requirements": 30,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "07/08/20",
+   "Active": 1123,
+   "severe": 203,
+   "comorbid": 179,
+   "ICU requirements": 31,
+   "Ventilators required overall": 8,
+   "Total": 7,
+   "Hypertension": 2
+ },
+ {
+   "Date": "08/08/20",
+   "Active": 1240,
+   "severe": 214,
+   "comorbid": 189,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "09/08/20",
+   "Active": 1272,
+   "severe": 218,
+   "comorbid": 193,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ },
+ {
+   "Date": "10/08/20",
+   "Active": 1294,
+   "severe": 218,
+   "comorbid": 193,
+   "ICU requirements": 33,
+   "Ventilators required overall": 9,
+   "Total": 8,
+   "Hypertension": 2
+ }
+]
