@@ -1,0 +1,428 @@
+[
+ {
+   "Date": "01/06/20",
+   "Active": 1040,
+   "severe": 555,
+   "comorbid": 349
+ },
+ {
+   "Date": "02/06/20",
+   "Active": 1103,
+   "severe": 544,
+   "comorbid": 345
+ },
+ {
+   "Date": "03/06/20",
+   "Active": 1195,
+   "severe": 570,
+   "comorbid": 364
+ },
+ {
+   "Date": "04/06/20",
+   "Active": 1258,
+   "severe": 593,
+   "comorbid": 381
+ },
+ {
+   "Date": "05/06/20",
+   "Active": 1313,
+   "severe": 561,
+   "comorbid": 363
+ },
+ {
+   "Date": "06/06/20",
+   "Active": 1364,
+   "severe": 571,
+   "comorbid": 372
+ },
+ {
+   "Date": "07/06/20",
+   "Active": 1388,
+   "severe": 566,
+   "comorbid": 372
+ },
+ {
+   "Date": "08/06/20",
+   "Active": 1471,
+   "severe": 600,
+   "comorbid": 394
+ },
+ {
+   "Date": "09/06/20",
+   "Active": 1548,
+   "severe": 631,
+   "comorbid": 418
+ },
+ {
+   "Date": "10/06/20",
+   "Active": 1632,
+   "severe": 649,
+   "comorbid": 433
+ },
+ {
+   "Date": "11/06/20",
+   "Active": 1663,
+   "severe": 655,
+   "comorbid": 440
+ },
+ {
+   "Date": "12/06/20",
+   "Active": 1750,
+   "severe": 690,
+   "comorbid": 468
+ },
+ {
+   "Date": "13/06/20",
+   "Active": 1846,
+   "severe": 707,
+   "comorbid": 486
+ },
+ {
+   "Date": "14/06/20",
+   "Active": 1967,
+   "severe": 764,
+   "comorbid": 529
+ },
+ {
+   "Date": "15/06/20",
+   "Active": 1993,
+   "severe": 803,
+   "comorbid": 558
+ },
+ {
+   "Date": "16/06/20",
+   "Active": 2097,
+   "severe": 863,
+   "comorbid": 605
+ },
+ {
+   "Date": "17/06/20",
+   "Active": 2183,
+   "severe": 933,
+   "comorbid": 661
+ },
+ {
+   "Date": "18/06/20",
+   "Active": 2173,
+   "severe": 870,
+   "comorbid": 621
+ },
+ {
+   "Date": "19/06/20",
+   "Active": 2212,
+   "severe": 888,
+   "comorbid": 636
+ },
+ {
+   "Date": "20/06/20",
+   "Active": 2038,
+   "severe": 857,
+   "comorbid": 619
+ },
+ {
+   "Date": "21/06/20",
+   "Active": 1957,
+   "severe": 816,
+   "comorbid": 596
+ },
+ {
+   "Date": "22/06/20",
+   "Active": 2004,
+   "severe": 851,
+   "comorbid": 624
+ },
+ {
+   "Date": "23/06/20",
+   "Active": 1877,
+   "severe": 820,
+   "comorbid": 602
+ },
+ {
+   "Date": "24/06/20",
+   "Active": 1893,
+   "severe": 832,
+   "comorbid": 615
+ },
+ {
+   "Date": "25/06/20",
+   "Active": 1854,
+   "severe": 838,
+   "comorbid": 622
+ },
+ {
+   "Date": "26/06/20",
+   "Active": 1893,
+   "severe": 890,
+   "comorbid": 662
+ },
+ {
+   "Date": "27/06/20",
+   "Active": 1920,
+   "severe": 829,
+   "comorbid": 619
+ },
+ {
+   "Date": "28/06/20",
+   "Active": 1937,
+   "severe": 821,
+   "comorbid": 617
+ },
+ {
+   "Date": "29/06/20",
+   "Active": 1772,
+   "severe": 735,
+   "comorbid": 555
+ },
+ {
+   "Date": "30/06/20",
+   "Active": 1852,
+   "severe": 756,
+   "comorbid": 574
+ },
+ {
+   "Date": "01/07/20",
+   "Active": 1958,
+   "severe": 796,
+   "comorbid": 607
+ },
+ {
+   "Date": "02/07/20",
+   "Active": 2006,
+   "severe": 787,
+   "comorbid": 604
+ },
+ {
+   "Date": "03/07/20",
+   "Active": 2078,
+   "severe": 826,
+   "comorbid": 637
+ },
+ {
+   "Date": "04/07/20",
+   "Active": 2147,
+   "severe": 856,
+   "comorbid": 664
+ },
+ {
+   "Date": "05/07/20",
+   "Active": 2288,
+   "severe": 887,
+   "comorbid": 693
+ },
+ {
+   "Date": "06/07/20",
+   "Active": 2415,
+   "severe": 921,
+   "comorbid": 725
+ },
+ {
+   "Date": "07/07/20",
+   "Active": 2552,
+   "severe": 992,
+   "comorbid": 785
+ },
+ {
+   "Date": "08/07/20",
+   "Active": 2814,
+   "severe": 1062,
+   "comorbid": 845
+ },
+ {
+   "Date": "09/07/20",
+   "Active": 2910,
+   "severe": 1033,
+   "comorbid": 825
+ },
+ {
+   "Date": "10/07/20",
+   "Active": 3067,
+   "severe": 1010,
+   "comorbid": 810
+ },
+ {
+   "Date": "11/07/20",
+   "Active": 3280,
+   "severe": 996,
+   "comorbid": 803
+ },
+ {
+   "Date": "12/07/20",
+   "Active": 3568,
+   "severe": 998,
+   "comorbid": 806
+ },
+ {
+   "Date": "13/07/20",
+   "Active": 3795,
+   "severe": 1041,
+   "comorbid": 844
+ },
+ {
+   "Date": "14/07/20",
+   "Active": 4113,
+   "severe": 1163,
+   "comorbid": 944
+ },
+ {
+   "Date": "15/07/20",
+   "Active": 4304,
+   "severe": 1182,
+   "comorbid": 963
+ },
+ {
+   "Date": "16/07/20",
+   "Active": 4512,
+   "severe": 1191,
+   "comorbid": 974
+ },
+ {
+   "Date": "17/07/20",
+   "Active": 4772,
+   "severe": 1245,
+   "comorbid": 1025
+ },
+ {
+   "Date": "18/07/20",
+   "Active": 5155,
+   "severe": 1268,
+   "comorbid": 1047
+ },
+ {
+   "Date": "19/07/20",
+   "Active": 5275,
+   "severe": 1314,
+   "comorbid": 1092
+ },
+ {
+   "Date": "20/07/20",
+   "Active": 5509,
+   "severe": 1335,
+   "comorbid": 1115
+ },
+ {
+   "Date": "21/07/20",
+   "Active": 5624,
+   "severe": 1342,
+   "comorbid": 1126
+ },
+ {
+   "Date": "22/07/20",
+   "Active": 5687,
+   "severe": 1370,
+   "comorbid": 1152
+ },
+ {
+   "Date": "23/07/20",
+   "Active": 5908,
+   "severe": 1411,
+   "comorbid": 1192
+ },
+ {
+   "Date": "24/07/20",
+   "Active": 5985,
+   "severe": 1435,
+   "comorbid": 1218
+ },
+ {
+   "Date": "25/07/20",
+   "Active": 6048,
+   "severe": 1427,
+   "comorbid": 1216
+ },
+ {
+   "Date": "26/07/20",
+   "Active": 6166,
+   "severe": 1497,
+   "comorbid": 1281
+ },
+ {
+   "Date": "27/07/20",
+   "Active": 6166,
+   "severe": 1502,
+   "comorbid": 1289
+ },
+ {
+   "Date": "28/07/20",
+   "Active": 6333,
+   "severe": 1536,
+   "comorbid": 1321
+ },
+ {
+   "Date": "29/07/20",
+   "Active": 6327,
+   "severe": 1459,
+   "comorbid": 1255
+ },
+ {
+   "Date": "30/07/20",
+   "Active": 6422,
+   "severe": 1464,
+   "comorbid": 1263
+ },
+ {
+   "Date": "31/07/20",
+   "Active": 6373,
+   "severe": 1399,
+   "comorbid": 1210
+ },
+ {
+   "Date": "01/08/20",
+   "Active": 6485,
+   "severe": 1387,
+   "comorbid": 1202
+ },
+ {
+   "Date": "02/08/20",
+   "Active": 6597,
+   "severe": 1368,
+   "comorbid": 1189
+ },
+ {
+   "Date": "03/08/20",
+   "Active": 6801,
+   "severe": 1421,
+   "comorbid": 1238
+ },
+ {
+   "Date": "04/08/20",
+   "Active": 6736,
+   "severe": 1353,
+   "comorbid": 1181
+ },
+ {
+   "Date": "05/08/20",
+   "Active": 6781,
+   "severe": 1335,
+   "comorbid": 1169
+ },
+ {
+   "Date": "06/08/20",
+   "Active": 6886,
+   "severe": 1329,
+   "comorbid": 1167
+ },
+ {
+   "Date": "07/08/20",
+   "Active": 6944,
+   "severe": 1254,
+   "comorbid": 1104
+ },
+ {
+   "Date": "08/08/20",
+   "Active": 6980,
+   "severe": 1206,
+   "comorbid": 1064
+ },
+ {
+   "Date": "09/08/20",
+   "Active": 7041,
+   "severe": 1206,
+   "comorbid": 1067
+ },
+ {
+   "Date": "10/08/20",
+   "Active": 6799,
+   "severe": 1145,
+   "comorbid": 1014
+ }
+]

@@ -1,0 +1,40 @@
+.background-image{
+    --background: url(../home/assets/back_4.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.questions{
+
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    text-size-adjust: 50px;
+    background-color: rgba(128, 128, 128, 0.541);
+}
+.button-pos{
+    position: relative;
+    width:200px;
+    margin:auto;
+    margin-top:50vh; 
+}
+ion-item{
+    --background: rgba(235, 231, 214, 0.808);
+}
+ion-label{
+    color: black;
+}
+ion-list {
+    margin-top: 30px; 
+    background: none;
+}
+ion-radio{
+    --color:rgba(34, 139, 34, 0.562);
+}
+ion-button{
+    position: relative;
+    width: 250px; 
+    margin-left: 42%; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+

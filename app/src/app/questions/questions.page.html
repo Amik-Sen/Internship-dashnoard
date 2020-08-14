@@ -1,0 +1,91 @@
+<ion-header>
+  <ion-toolbar style="--background: rgb(65, 119, 218);">
+    <ion-buttons slot="end">
+      <ion-icon slot="icon-only" name="person-circle"></ion-icon>
+    </ion-buttons>
+    <ion-item style="width: 300px;--background: rgb(78, 126, 216);">
+      <ion-label>Language</ion-label>
+      <ion-select placeholder="Select" style="width: 250px;">
+        <ion-select-option value="e">English</ion-select-option>
+        <ion-select-option value="h">Hindi</ion-select-option>
+        <ion-select-option value="b">Bengali</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class = "background-image">
+<div class = "questions">
+  <ion-text style = "font-size: 20px;">Select your Age group</ion-text>
+  <ion-list  style="margin-top: 20px; background: none;">
+    <ion-radio-group value="2">
+      <ion-item>
+        <ion-label style="color: black;">0-16</ion-label>
+        <ion-radio slot="start" value="2"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">16-30</ion-label>
+        <ion-radio slot="start" value="3"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">30-45</ion-label>
+        <ion-radio slot="start" value="4"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">45-60</ion-label>
+        <ion-radio slot="start" value="5"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">60-75</ion-label>
+        <ion-radio slot="start" value="6"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">75+</ion-label>
+        <ion-radio slot="start" value="7"></ion-radio>
+      </ion-item>
+    </ion-radio-group>
+  </ion-list>
+  <ion-text style = "font-size: 20px;">Region</ion-text>
+  <ion-list>
+    <ion-radio-group value="k">
+      <ion-item>
+        <ion-label  style="color: black;">Kolkata</ion-label>
+        <ion-radio slot="start" value="k"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">Howrah</ion-label>
+        <ion-radio slot="start" value="h"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">North 24 Paraganas</ion-label>
+        <ion-radio slot="start" value="n"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">Hooghly</ion-label>
+        <ion-radio slot="start" value="ho"></ion-radio>
+      </ion-item>
+      <ion-item>
+        <ion-label style="color: black;">Paschim Midnapore</ion-label>
+        <ion-radio slot="start" value="p"></ion-radio>
+      </ion-item>
+    </ion-radio-group>
+  </ion-list>
+  <ion-text style = "font-size: 20px;">Select  comorbidity  issues </ion-text>
+  <ion-list style="margin-top: 20px; background: none;">
+    <ion-item>
+      <ion-label style="color: black;">Hyper-Tension</ion-label>
+      <ion-checkbox slot="start" style = "--background: rgba(34, 139, 34, 0.562);"></ion-checkbox>
+    </ion-item>
+    <ion-item>
+      <ion-label style="color: black;">Diabetes</ion-label>
+      <ion-checkbox slot="start" style = "--background: rgba(34, 139, 34, 0.562);"></ion-checkbox>
+    </ion-item>
+    <ion-item>
+      <ion-label style="color: black;">Cardiac Problem</ion-label>
+      <ion-checkbox slot="start" style = "--background: rgba(34, 139, 34, 0.562);"></ion-checkbox>
+    </ion-item>
+  </ion-list >
+</div>
+<ion-button shape = "round" expand = "block"  href="chart">
+   Show Results</ion-button>
+</ion-content>
